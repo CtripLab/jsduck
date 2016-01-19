@@ -1,0 +1,17 @@
+{
+	"--title": "测试标题",
+	"--footer": "测试footer",
+	"--warnings": ["-no_doc"],
+	"--output": "./out",
+	"--": ["./js/abtest.js"],
+	"--builtin-classes": true,
+	"--body-html": [
+		"<script type='text/javascript'>",
+		"Docs.otherProducts = [",
+			"{text: 'MyDocs 3.0', href: 'http://example.com/docs/3.0'},",
+			"{text: 'MyDocs 2.0', href: 'http://example.com/docs/2.0'},",
+			"{text: 'MyDocs 1.0', href: 'http://example.com/docs/1.0'}",
+		"];",
+		"</script>"
+	]
+}
