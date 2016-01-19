@@ -11,4 +11,7 @@ windows: <br>
     4、输入jsduck --help 如果成功会有一些列帮助信息。代表安装完毕<br>
     
 Mac:<br>
-    see here: https://github.com/senchalabs/jsduck/wiki/Installation
+    see here: https://github.com/senchalabs/jsduck/wiki/Installation<br><br><br>
+    
+
+环境安装完成后只要配置jsduck.json文件即可。然后把文件放在项目根目录中，cd到目录，直接执行jsduck命令即可生成<br><br>
