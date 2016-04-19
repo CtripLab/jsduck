@@ -1,5 +1,5 @@
 {
-	"--title": "测试标题", //
+	"--title": "测试标题", // for new test
 	"--footer": "测试footer",
 	"--warnings": ["-no_doc"],
 	"--output": "./out",
